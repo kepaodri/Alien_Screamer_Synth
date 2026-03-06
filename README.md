@@ -35,6 +35,7 @@ The circuit is built around 2x primary ICs:
 - Heigth: xxx
 
 ### 3D Render
+![Top View](renders/AlienScreamer_topRayTracing.png)
 
 ## Tools Used
 KiCad: 9.0.4
