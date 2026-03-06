@@ -13,9 +13,7 @@ The **Alien Screamer** is a classic lo-fi analog synthesizer designed by Ray Wil
 * **Waveform Shaping:** Toggle between square, low-pass filtered, and differentiated "tweet" waveforms for diverse modulation.
 * **Sync Effects:** Hard-sync capability where the LFO resets the VCO for aggressive, complex timbres.
 * **Built-in Audio:** Includes an LM386-based 1W amplifier and internal speaker for portability.
-* **Battery Powered:** Optimized for low current draw (~10mA) on a single 9V battery.
-* **Kludge Area:** The PCB layout includes a dedicated prototyping space for custom circuit modifications.
-
+* **9V-Battery Powered:** Optimized for low current draw (~10mA) on a single 9V battery.
 ---
 
 ## 🛠 Technical Specifications
@@ -38,12 +36,6 @@ The **Alien Screamer** is a classic lo-fi analog synthesizer designed by Ray Wil
 * `docs/` - Wiring diagrams and assembly instructions.
 
 ---
-
-## 🛸 Sound Capabilities
-The Alien Screamer excels at creating experimental textures, including:
-* **Sci-Fi Effects:** Star Trek-style communicator chirps and saucer sounds.
-* **Nature Mimicry:** Bird tweets and insect-like modulations.
-* **Performance:** Theremin-like glissandos and thundering drones.
 
 > **Note:** This project is designed for educational and DIY purposes. Original design by Ray Wilson (Music From Outer Space).
 
