@@ -31,8 +31,8 @@ The circuit is built around 2x primary ICs:
 ### PCB Features
 - Layers: 4
 - Thickness: 1.6mm
-- Width: xxx
-- Heigth: xxx
+- Width: 250mm
+- Heigth: 119.5mm
 
 ### 3D Render
 ![Top View](renders/AlienScreamer_topRayTracing.png)
