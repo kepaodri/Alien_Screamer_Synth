@@ -3,7 +3,6 @@ PCB design for "Alien Screamer" (modified) synthesizer (original design by Ray W
 
 ## Project Description
 The **Alien Screamer** Analog Noise Box is a classic Lo-Fi analog synthesizer designed by Ray Wilson of *Music From Outer Space*. It serves as an excellent introductory project for synth-DIY enthusiasts, providing a hands-on way to learn about oscillators, modulation, and integrated circuit amplification.
-For more detailed technical information and the original schematics, visit the [MFOS Alien Screamer Noise Box](https://musicfromouterspace.com/analogsynth_new/ALIENSCREAMER/ALIENSCREAMER.php).
 ---
 
 ## 🚀 Main Features
